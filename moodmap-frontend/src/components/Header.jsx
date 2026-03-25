@@ -25,7 +25,7 @@ export default function Header() {
           <div className="mt-4 space-y-3 text-sm text-slate-100">
             <p>FastAPI backend with Hugging Face model inference</p>
             <p>React frontend with interactive text analysis</p>
-            <p>Tailwind UI designed for portfolio presentation</p>
+            <p>Tailwind UI for seamless user experience</p>
           </div>
         </div>
 
