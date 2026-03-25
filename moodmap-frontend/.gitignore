@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+dist/
+
+# macOS
+.DS_Store
+
+# Vite
+.vite/
+
+# Logs
+*.log
+
+# Env files
+.env
